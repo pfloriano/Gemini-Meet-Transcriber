@@ -1,6 +1,6 @@
 # Meet Transcription Reminder (Gemini)
 
-A Google Chrome extension that helps you remember to enable Gemini transcription in Google Meet calls. It can either remind you with a subtle notification or automatically enable transcription when you join a meeting.
+A Google Chrome extension that helps you remember to enable Gemini transcription in Google Meet calls. It can either remind you with a subtle notification or automatically enable transcription when you join a meeting. 100% vibe coded so use with caution.
 
 ## Features
 
