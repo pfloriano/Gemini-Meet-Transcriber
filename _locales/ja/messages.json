@@ -1,0 +1,46 @@
+{
+    "extName": {
+        "message": "Gemini Meet 文字起こし",
+        "description": "Extension name"
+    },
+    "extDesc": {
+        "message": "Google MeetでGeminiの文字起こしを自動開始します。",
+        "description": "Extension description"
+    },
+    "balloonTitle": {
+        "message": "文字起こしを開始？",
+        "description": "Balloon popup header"
+    },
+    "btnYes": {
+        "message": "はい",
+        "description": "Yes button"
+    },
+    "btnNo": {
+        "message": "いいえ",
+        "description": "No button"
+    },
+    "settingsAuto": {
+        "message": "常に自動的に開始する",
+        "description": "Auto-start toggle label"
+    },
+    "settingsAutoDesc": {
+        "message": "ミーティング参加時にGemini文字起こしを自動的に有効化",
+        "description": "Auto-start toggle description"
+    },
+    "statusActive": {
+        "message": "自動開始が有効",
+        "description": "Status when auto-start is on"
+    },
+    "statusManual": {
+        "message": "手動モード - リマインダーを表示",
+        "description": "Status when auto-start is off"
+    },
+    "popupSubtitle": {
+        "message": "文字起こしの有効化を忘れずに",
+        "description": "Popup subtitle"
+    },
+    "footer": {
+        "message": "meet.google.comで動作します",
+        "description": "Footer text"
+    }
+}

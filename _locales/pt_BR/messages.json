@@ -1,0 +1,46 @@
+{
+    "extName": {
+        "message": "Transcritor Gemini Meet",
+        "description": "Extension name"
+    },
+    "extDesc": {
+        "message": "Inicie a transcrição do Gemini automaticamente.",
+        "description": "Extension description"
+    },
+    "balloonTitle": {
+        "message": "Ativar Transcrição?",
+        "description": "Balloon popup header"
+    },
+    "btnYes": {
+        "message": "Sim",
+        "description": "Yes button"
+    },
+    "btnNo": {
+        "message": "Não",
+        "description": "No button"
+    },
+    "settingsAuto": {
+        "message": "Sempre iniciar automaticamente",
+        "description": "Auto-start toggle label"
+    },
+    "settingsAutoDesc": {
+        "message": "Ativar transcrição do Gemini automaticamente ao entrar em uma reunião",
+        "description": "Auto-start toggle description"
+    },
+    "statusActive": {
+        "message": "Início automático ativado",
+        "description": "Status when auto-start is on"
+    },
+    "statusManual": {
+        "message": "Modo manual - mostrará lembrete",
+        "description": "Status when auto-start is off"
+    },
+    "popupSubtitle": {
+        "message": "Nunca esqueça de ativar a transcrição",
+        "description": "Popup subtitle"
+    },
+    "footer": {
+        "message": "Funciona em meet.google.com",
+        "description": "Footer text"
+    }
+}
